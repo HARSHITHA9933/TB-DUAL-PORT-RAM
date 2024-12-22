@@ -11,7 +11,7 @@ Here’s the description:
 
 3. Transaction:  
    - A class object that represents a single RAM operation (read or write).  
-   - Includes attributes such as `address`, `data`, and optional `byte_enable`.  
+   - Includes attributes such as address, data, and optional byte_enable.  
    - Allows constraint-based randomization to generate diverse test scenarios.
 
 4. Read Driver:  
